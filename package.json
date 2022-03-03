@@ -2,6 +2,7 @@
   "name": "@types/testing-express-socket.io-session",
   "version": "1.0.0",
   "description": "",
+  "_location": "/@types/testing-express-socket.io-session",
   "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
