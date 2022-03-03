@@ -1,5 +1,7 @@
 {
     "private": true,
+    "_location": "/@types/express-socket.io-session",
+    "name": "/@types/express-socket.io-session",
     "dependencies": {
         "@types/socket.io": "*"
     }
