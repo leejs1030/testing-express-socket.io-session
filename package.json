@@ -1,8 +1,8 @@
 {
-  "name": "@types/testing-express-socket.io-session",
+  "name": "@types/express-socket.io-session",
   "version": "1.0.0",
   "description": "",
-  "_location": "/@types/testing-express-socket.io-session",
+  "_location": "/@types/express-socket.io-session",
   "main": "",
   "scripts": {},
   "repository": {
