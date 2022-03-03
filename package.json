@@ -1,8 +1,23 @@
 {
-    "private": true,
-    "_location": "/@types/express-socket.io-session",
-    "name": "/@types/express-socket.io-session",
-    "dependencies": {
-        "@types/socket.io": "*"
-    }
+  "name": "testing-express-socket.io-session",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leejs1030/testing-express-socket.io-session.git"
+  },
+  "dependencies": {
+    "@types/socket.io": "*"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leejs1030/testing-express-socket.io-session/issues"
+  },
+  "homepage": "https://github.com/leejs1030/testing-express-socket.io-session#readme"
 }
